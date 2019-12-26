@@ -1,0 +1,44 @@
+{
+    _id: 1,
+    zipcode: "63109",
+    students: [
+        { name: "john", school: 102, age: 10 },
+        { name: "jess", school: 102, age: 11 },
+        { name: "jeff", school: 102, age: 15 }
+    ],
+    teachers :[
+	{ name: "tim", school: 102, age: 33 },
+        { name: "marcus", school: 102, age: 31 },
+        { name: "randy", school: 102, age: 65 }
+    ]
+}
+{
+    _id: 2,
+    zipcode: "63110",
+    students: [
+        { name: "ajax", school: 100, age: 7 },
+        { name: "achilles", school: 100, age: 8 }
+    ],
+    teachers :[
+	{ name: "tina", school: 100, age: 23 }
+    ] 
+}
+{
+    _id: 3,
+    zipcode: "63109",
+    students: [
+        { name: "ajax", school: 108, age: 7 },
+        { name: "achilles", school: 108, age: 8 }
+    ]
+}
+{
+    _id: 4,
+    zipcode: "63109",
+    students: [
+        { name: "barney", school: 102, age: 7 },
+        { name: "ruth", school: 102, age: 16 }
+    ],
+    teachers :[
+	{ name: "sophie", school: 102, age: 33}
+    ]
+}
